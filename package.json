@@ -1,0 +1,20 @@
+{
+  "name": "company-copilot-customizations",
+  "displayName": "Company Copilot Customizations",
+  "description": "Managed agents and skills for internal development workflows.",
+  "version": "0.1.0",
+  "publisher": "company",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": ["Other"],
+  "contributes": {
+    "chatAgents": [
+      { "path": "./agents/planner.agent.md" },
+      { "path": "./agents/reviewer.agent.md" }
+    ],
+    "chatSkills": [
+      { "path": "./skills/internal-release/SKILL.md" }
+    ]
+  }
+}
