@@ -2,6 +2,7 @@
 .DS_Store
 .idea/
 /dist/
+/tentacle-acres-vsce-tentacles-*.vsix
 Thumbs.db
 
 # Node.js

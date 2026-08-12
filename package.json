@@ -9,8 +9,7 @@
   "engines": {
     "vscode": "^1.110.0"
   },
-  "name": "tentacle-acres-vscode-extension-tentacles",
-  "publisher": "Tentacle Acres",
+  "name": "tentacle-acres-vsce-tentacles",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/unfunco/tentacle-acres-vsce-tentacles.git"
