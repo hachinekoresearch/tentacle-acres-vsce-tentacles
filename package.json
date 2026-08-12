@@ -2,6 +2,9 @@
   "categories": [],
   "contributes": {},
   "description": "An example Visual Studio Code extension.",
+  "devDependencies": {
+    "@vscode/vsce": "3.9.2"
+  },
   "displayName": "Tentacles",
   "engines": {
     "vscode": "^1.110.0"
